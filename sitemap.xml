@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://laundrypot.com/</loc>
+  <lastmod>2025-05-24T03:55:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://laundrypot.com/services.html</loc>
+  <lastmod>2025-05-24T03:57:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://laundrypot.com/price.html</loc>
+  <lastmod>2025-05-24T03:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://laundrypot.com/contact.html</loc>
+  <lastmod>2025-05-24T04:00:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
